@@ -1,5 +1,5 @@
 import './App.css';
-import {Canvas, useFrame, extend, useThree, useLoader} from "react-three-fiber"
+import { useFrame, extend, useThree, useLoader} from "react-three-fiber"
 import {Suspense, useRef} from "react"
 import {OrbitControls} from "three/examples/jsm/controls/OrbitControls"
 import * as THREE from 'three'
